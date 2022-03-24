@@ -14,7 +14,7 @@
     "core-js": "^2.6.5",
     "hls.js": "^0.12.4",
     "js-base64": "^2.5.1",
-    "node-forge": "^0.10.0",
+    "node-forge": "^1.3.0",
     "openplayerjs": "^1.12.0",
     "plyr": "^3.5.4",
     "vue": "^2.6.10",
